@@ -1,0 +1,1 @@
+# Budowa-algorytmu-przewidujacego-ceny-zamkni-cia-akcji
